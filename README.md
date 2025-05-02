@@ -24,9 +24,8 @@ This is a simple 2D OpenGL game built using Python and PyOpenGL where you contro
 
 ---
 
-## 📦 Requirements
+## 🖥️ How to Run
 
-Install these before running:
-
-```bash
-pip install PyOpenGL PyOpenGL_accelerate
+1. ✅ **Install dependencies**:
+   ```bash
+   pip install PyOpenGL PyOpenGL_accelerate numpy
