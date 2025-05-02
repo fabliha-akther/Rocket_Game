@@ -1,4 +1,4 @@
-# 🚀 Shoot the Circles! – A Python OpenGL Arcade Game
+# 🚀 Shoot the Circles! 
 
 This is a simple 2D OpenGL game built using Python and PyOpenGL where you control a ship and shoot falling colorful circles to earn points!
 
@@ -23,7 +23,11 @@ This is a simple 2D OpenGL game built using Python and PyOpenGL where you contro
 - Fully interactive UI buttons
 
 ---
+## Maze Game Preview
 
+![Maze Screenshot](Maze.png)
+
+---
 ## 🖥️ How to Run
 
 1. ✅ **Install dependencies**:
