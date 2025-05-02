@@ -27,6 +27,7 @@ This is a simple 2D OpenGL game built using Python and PyOpenGL where you contro
 
 ![Maze Screenshot](Maze.png)
 
+
 ---
 ## 🖥️ How to Run
 
