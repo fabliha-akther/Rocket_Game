@@ -23,9 +23,9 @@ This is a simple 2D OpenGL game built using Python and PyOpenGL where you contro
 - Fully interactive UI buttons
 
 ---
-## Maze Game Preview
+## Rocket Game Preview
 
-![Maze Screenshot](Maze.png)
+![Rocket Game](rocket_game.png)
 
 
 ---
